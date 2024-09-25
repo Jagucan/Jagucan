@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacinto Gutiérrez</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
-- 🔭 I’m currently working on [3D Game - The Maze](https://github.com/Jagucan/maze_project)
-
 - 🌱 I’m currently learning **.NET and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jagucan?tab=repositories](https://github.com/Jagucan?tab=repositories)
