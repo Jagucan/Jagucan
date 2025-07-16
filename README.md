@@ -98,7 +98,7 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Carreras de autos multijugador*  
   **Stack:** Unity · MLAPI · C#
 
-### 🧭 [360 VR Video Tour¨](https://github.com/Jagucan/360-vr-video-tour)
+### 🧭 [360 VR Video Tour](https://github.com/Jagucan/360-vr-video-tour)
 - *Experiencia inmersiva en entorno 360° para dispositivos de VR*  
   **Stack:** Unity · C#
 
@@ -106,9 +106,9 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Mini-juego experimental WebXR para navegadores*  
   **Stack:** Unity WebXR · C#
 
-### 🌐 VR Room
-- *Mini-juego experimental WebXR para navegadores*  
-  **Stack:** Unity WebXR · C#
+### 🏠 [VR Room](https://github.com/Jagucan/vr-room)
+- *Experiencia VR interactiva creada para Google Cardboard. Permite explorar un entorno virtual y activar objetos dentro de la escena.*
+  **Stack:** Unity · C# · Google VR SDK
 
 ---
 
