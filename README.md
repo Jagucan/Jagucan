@@ -94,7 +94,7 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Experiencia inmersiva en entorno 360° para dispositivos de VR*  
   **Stack:** Unity · C#
 
-### 🌐 [WebXR Bowling](https://github.com/Jagucan/web-xr-bowling)
+### 🎳 [WebXR Bowling](https://github.com/Jagucan/web-xr-bowling)
 - *Mini-juego de bolos en 3D en WebXR para navegadores*  
   **Stack:** Unity WebXR · C#
 
