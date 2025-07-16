@@ -71,11 +71,11 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
   **Stack:** .NET · Angular · SQL Server
 
 ### 📦 [Orderly](https://github.com/Jagucan/s16-01-ft-csharp-react)
-- *Plataforma para pedidos colaborativos*  
+- *Plataforma para pedidos en restaurantes y bares*  
   **Stack:** .NET · React · SQL Server
 
 ### 🐾 [PawsHappy](https://github.com/Jagucan/c20-01-ft-csharp-angular)
-- *Adopción de mascotas FullStack*  
+- *Plataforma para adopción de mascotas (FullStack)*  
   **Stack:** .NET · Angular · PostgreSQL
 
 ### 🏢 [Urbania](https://github.com/Jagucan/s21-14-n-webapp)
