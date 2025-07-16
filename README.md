@@ -66,24 +66,24 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 
 ## 📦 Proyectos Web Destacados
 
-### 🛒 Sportswear
-- 🔗 [**Sportswear**](https://github.com/Jagucan/c17-117-t-csharp) — *Tienda online de ropa deportiva*  
+### 🛒 [Sportswear](https://github.com/Jagucan/c17-117-t-csharp)
+- *Tienda online de ropa deportiva*  
   **Stack:** .NET · Angular · SQL Server
 
-### 📦 Orderly
-- 🔗 [**Orderly**](https://github.com/Jagucan/s16-01-ft-csharp-react-) — *Plataforma para pedidos colaborativos*  
+### 📦 [Orderly](https://github.com/Jagucan/s16-01-ft-csharp-react)
+- *Plataforma para pedidos colaborativos*  
   **Stack:** .NET · React · SQL Server
 
-### 🐾 PawsHappy
-- 🔗 [**PawsHappy**](https://github.com/Jagucan/c20-01-ft-csharp-angular) — *Adopción de mascotas FullStack*  
+### 🐾 [PawsHappy](https://github.com/Jagucan/c20-01-ft-csharp-angular)
+- *Adopción de mascotas FullStack*  
   **Stack:** .NET · Angular · PostgreSQL
 
-### 🏢 Urbania
-- 🔗 [**Urbania**](https://github.com/Jagucan/s21-14-n-webapp) — *Sistema para inmobiliarias*  
+### 🏢 [Urbania](https://github.com/Jagucan/s21-14-n-webapp)
+- *Sistema para inmobiliarias*  
   **Stack:** Node.js · React · PostgreSQL
 
-### 🏥 MediConnect
-- 🔗 [**MediConnect**](https://github.com/Jagucan/c22-01-n-webapp) — *Control de citas médicas*  
+### 🏥 [MediConnect](https://github.com/Jagucan/c22-01-n-webapp)
+- *Control de citas médicas*  
   **Stack:** Node.js · React · MongoDB
 
 ---
@@ -94,8 +94,8 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Juego 3D de exploración y aventuras*  
   **Stack:** Unity · C#
 
-### 🏁 3D Multiplayer Racing Game
-- 🔗 [**Racing Game**](https://github.com/Jagucan/3d-multiplayer-racing) — *Carreras de autos multijugador*  
+### 🏁 [3D Multiplayer Racing Game](https://github.com/Jagucan/3d-multiplayer-racing)
+- *Carreras de autos multijugador*  
   **Stack:** Unity · MLAPI · C#
 
 ### 🧭 360 VR Room
