@@ -74,10 +74,6 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Plataforma para pedidos en restaurantes y bares*  
   **Stack:** .NET · React · SQL Server
 
-### 🐾 [PawsHappy](https://github.com/Jagucan/c20-01-ft-csharp-angular)
-- *Plataforma para adopción de mascotas (FullStack)*  
-  **Stack:** .NET · Angular · PostgreSQL
-
 ### 🏢 [Urbania](https://github.com/Jagucan/s21-14-n-webapp)
 - *Sistema para inmobiliarias*  
   **Stack:** Node.js · React · PostgreSQL
@@ -90,10 +86,6 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 
 ## 🎮 Proyectos AR/VR & Juegos
 
-### 🗺️ Explorers of the Forgotten Realms
-- *Juego 3D de exploración y aventuras*  
-  **Stack:** Unity · C#
-
 ### 🏁 [3D Multiplayer Racing Game](https://github.com/Jagucan/3d-multiplayer-racing-game)
 - *Carreras de autos multijugador*  
   **Stack:** Unity · MLAPI · C#
@@ -102,8 +94,8 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Experiencia inmersiva en entorno 360° para dispositivos de VR*  
   **Stack:** Unity · C#
 
-### 🌐 WebXR Game
-- *Mini-juego experimental WebXR para navegadores*  
+### 🌐 [WebXR Bowling](https://github.com/Jagucan/web-xr-bowling)
+- *Mini-juego de bolos en 3D en WebXR para navegadores*  
   **Stack:** Unity WebXR · C#
 
 ### 🏠 [VR Room](https://github.com/Jagucan/vr-room)
