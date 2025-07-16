@@ -107,7 +107,7 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
   **Stack:** Unity WebXR · C#
 
 ### 🏠 [VR Room](https://github.com/Jagucan/vr-room)
-- *Experiencia VR interactiva creada para Google Cardboard. Permite explorar un entorno virtual y activar objetos dentro de la escena.*
+- *Experiencia VR interactiva creada para Google Cardboard. Permite explorar un entorno virtual y activar objetos dentro de la escena.*  
   **Stack:** Unity · C# · Google VR SDK
 
 ---
