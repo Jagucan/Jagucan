@@ -94,15 +94,19 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 - *Juego 3D de exploración y aventuras*  
   **Stack:** Unity · C#
 
-### 🏁 [3D Multiplayer Racing Game](https://github.com/Jagucan/3d-multiplayer-racing)
+### 🏁 [3D Multiplayer Racing Game](https://github.com/Jagucan/3d-multiplayer-racing-game)
 - *Carreras de autos multijugador*  
   **Stack:** Unity · MLAPI · C#
 
-### 🧭 360 VR Room
+### 🧭 [360 VR Video Tour¨](https://github.com/Jagucan/360-vr-video-tour)
 - *Experiencia inmersiva en entorno 360° para dispositivos de VR*  
   **Stack:** Unity · C#
 
 ### 🌐 WebXR Game
+- *Mini-juego experimental WebXR para navegadores*  
+  **Stack:** Unity WebXR · C#
+
+### 🌐 VR Room
 - *Mini-juego experimental WebXR para navegadores*  
   **Stack:** Unity WebXR · C#
 
