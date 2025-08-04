@@ -68,7 +68,7 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 
 ### 🛒 [Sportswear](https://github.com/Jagucan/c17-117-t-csharp)
 - *Tienda online de ropa deportiva*  
-  **Stack:** .NET · Angular · SQL Server
+  **Stack:** .NET · React · PostgreSQL
 
 ### 📦 [Orderly](https://github.com/Jagucan/s16-01-ft-csharp-react)
 - *Plataforma para pedidos en restaurantes y bares*  
