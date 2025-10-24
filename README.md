@@ -8,6 +8,21 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
+<p align="center">
+  <a href="https://portafolio-omega-lyart.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-gray?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/jacinto-gutierrez-cantillo-software-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jgut.2499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+
+
+
 ---
 
 ## 🚀 Sobre mí
@@ -114,8 +129,10 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 
 ## 📫 Contacto
 
+  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-gray?style=for-the-badge)](https://portafolio-omega-lyart.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-gutierrez-cantillo-software-developer/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgut.2499@gmail.com)
+
 
 ---
 
