@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Jacinto Gutiérrez</h1>
+<h1 align="center">¡Hola! Soy Jacinto Gutiérrez</h1>
 
 <p align="center">
-  <b>Desarrollador de Software — Full Stack & AR/VR</b>
+  <b>Desarrollador de Software — Full Stack</b>
 </p>
 
 <p align="center">
@@ -27,28 +27,24 @@
 
 ## 🚀 Sobre mí
 
-Soy **Desarrollador de Software** con experiencia en el desarrollo de **aplicaciones web** (Frontend y Backend), creando **APIs robustas**, **interfaces interactivas** y soluciones eficientes que resuelvan necesidades reales del negocio.
-
-También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **Unity**, **C#**, y tecnologías como **AR/VR/WebXR**, enfocándome en la creación de prototipos interactivos, entornos virtuales y juegos en 3D.
+Soy **Desarrollador de Software** con experiencia en el desarrollo de **aplicaciones web** (Frontend y Backend), creando **APIs**, **interfaces interactivas** y soluciones eficientes que resuelvan necesidades reales del negocio.
 
 ---
 
 ## 🧩 Áreas de especialización
 
 - 🔹 **Frontend:** Angular · React · TypeScript · Tailwind CSS  
-- 🔹 **Backend:** .NET (C#) · Node.js (TypeScript)  
-- 🔹 **Bases de datos:** PostgreSQL · MySQL · SQL Server (con Entity Framework y Sequelize)  
-- 🔹 **XR / Juegos:** Unity · C# · WebXR · OpenXR  
+- 🔹 **Backend:** Node.js (TypeScript)  
+- 🔹 **Bases de datos:** PostgreSQL · MySQL · SQL Server
 - 🔹 **Herramientas:** Git · GitHub · Postman
 
 ---
 
-## 💻 Tecnologías Web (Frontend / Backend / AR/VR)
+## 💻 Tecnologías Web (Frontend / Backend )
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
 </p>
@@ -68,14 +64,6 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>       
 </p>
-
-### 🕹️ AR/VR y Videojuegos
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/>
-  
-</p>
-
 
 ---
 
@@ -99,26 +87,6 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 
 ---
 
-## 🎮 Proyectos AR/VR & Juegos
-
-### 🏁 [3D Multiplayer Racing Game](https://github.com/Jagucan/3d-multiplayer-racing-game)
-- *Carreras de autos multijugador*  
-  **Stack:** Unity · MLAPI · C#
-
-### 🧭 [360 VR Video Tour](https://github.com/Jagucan/360-vr-video-tour)
-- *Experiencia inmersiva en entorno 360° para dispositivos de VR*  
-  **Stack:** Unity · C#
-
-### 🎳 [WebXR Bowling](https://github.com/Jagucan/web-xr-bowling)
-- *Mini-juego de bolos en 3D en WebXR para navegadores*  
-  **Stack:** Unity WebXR · C#
-
-### 🏠 [VR Room](https://github.com/Jagucan/vr-room)
-- *Experiencia VR interactiva creada para Google Cardboard. Permite explorar un entorno virtual y activar objetos dentro de la escena.*  
-  **Stack:** Unity · C# · Google VR SDK
-
----
-
 ## 📊 Lenguajes más utilizados
 
 <p align="center">
@@ -130,7 +98,7 @@ También desarrollo **videojuegos** y **experiencias inmersivas** utilizando **U
 ## 📫 Contacto
 
   [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-gray?style=for-the-badge)](https://portafolio-omega-lyart.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacinto-gutierrez-cantillo-software-developer/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgutierrez-dev/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgut.2499@gmail.com)
 
 
